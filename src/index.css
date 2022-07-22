@@ -1,3 +1,71 @@
-* {
+:root {
+  --color_1: rgb(255, 255, 255);
+  --color_2: rgb(0, 0, 0);
+  --color_3: rgb(237, 28, 36);
+  --color_4: rgb(0, 136, 203);
+  --color_5: rgb(255, 203, 5);
+  --color_6: rgb(114, 114, 114);
+  --color_7: rgb(176, 176, 176);
+  --color_8: rgb(255, 255, 255);
+  --color_9: rgb(114, 114, 114);
+  --color_10: rgb(176, 176, 176);
+  --color_11: rgb(255, 255, 255);
+  --color_12: rgb(237, 237, 238);
+  --color_13: rgb(142, 142, 143);
+  --color_14: rgb(95, 95, 95);
+  --color_15: rgb(47, 47, 48);
+  --color_16: rgb(232, 207, 200);
+  --color_17: rgb(208, 176, 166);
+  --color_18: rgb(160, 88, 65);
+  --color_19: rgb(124, 73, 56);
+  --color_20: rgb(62, 42, 36);
+  --color_21: rgb(187, 213, 214);
+  --color_22: rgb(145, 172, 173);
+  --color_23: rgb(104, 131, 132);
+  --color_24: rgb(62, 90, 91);
+  --color_25: rgb(18, 49, 50);
+  --color_26: rgb(214, 207, 197);
+  --color_27: rgb(174, 165, 153);
+  --color_28: rgb(133, 120, 101);
+  --color_29: rgb(89, 80, 67);
+  --color_30: rgb(44, 40, 34);
+  --color_31: rgb(200, 202, 211);
+  --color_32: rgb(153, 156, 166);
+  --color_33: rgb(103, 107, 122);
+  --color_34: rgb(69, 71, 81);
+  --color_35: rgb(34, 36, 41);
+  --font_0: normal normal normal 112px/1.4em dinneuzeitgroteskltw01-_812426,
+    sans-serif;
+  --font_1: normal normal normal 16px/1.4em din-next-w01-light,
+    din-next-w02-light, din-next-w10-light, sans-serif;
+  --font_2: normal normal normal 97px/1.4em dinneuzeitgroteskltw01-_812426,
+    sans-serif;
+  --font_3: normal normal normal 40px/1.4em dinneuzeitgroteskltw01-_812426,
+    sans-serif;
+  --font_4: normal normal normal 22px/1.4em dinneuzeitgroteskltw01-_812426,
+    sans-serif;
+  --font_5: normal normal normal 20px/1.4em dinneuzeitgroteskltw01-_812426,
+    sans-serif;
+  --font_6: normal normal normal 17px/1.4em avenir-lt-w01_35-light1475496,
+    avenir-lt-w05_35-light, sans-serif;
+  --font_7: normal normal normal 16px/1.4em avenir-lt-w01_35-light1475496,
+    avenir-lt-w05_35-light, sans-serif;
+  --font_8: normal normal normal 15px/1.4em avenir-lt-w01_35-light1475496,
+    avenir-lt-w05_35-light, sans-serif;
+  --font_9: normal normal normal 14px/1.4em avenir-lt-w01_35-light1475496,
+    avenir-lt-w05_35-light, sans-serif;
+  --font_10: normal normal normal 12px/1.4em din-next-w01-light,
+    din-next-w02-light, din-next-w10-light, sans-serif;
+  --wix-ads-height: 0px;
+  --wix-ads-top-height: 0px;
+  --site-width: 980px;
+  --fnt: normal normal normal 22px/1.4em dinneuzeitgroteskltw01-_812426,
+    sans-serif;
+}
+body {
+  font-family: 'lora', serif;
   margin: 0;
+  background-color: var(--color_12);
+  max-width: 90%;
+  margin: 0 auto;
 }
